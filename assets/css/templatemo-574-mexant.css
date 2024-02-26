@@ -588,6 +588,9 @@ header
   .header-area .main-nav .logo {
     color: #1e1e1e;
   }
+  .strap{
+    margin-left: 10%;
+  }
   .header-area.header-sticky .nav li a:hover,
   .header-area.header-sticky .nav li a.active {
     color: #ff511a!important;
